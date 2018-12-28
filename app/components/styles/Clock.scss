@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+}
+
+.hours {
+    font-size: 5em;
+    margin: 0;
+}
+
+.inside {
+    height: 10px;
+    width: 200px;
+    background: red;
+}
+
+.seconds {
+    font-size: 2em;
+    opacity: 0.4;
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 5px;
+}
